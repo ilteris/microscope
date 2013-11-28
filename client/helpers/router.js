@@ -1,4 +1,4 @@
 Meteor.Router.add({
-    '/': 'postList'
+    '/': 'postsList'
 });
 
