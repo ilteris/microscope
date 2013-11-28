@@ -6,5 +6,5 @@
 standard-app-packages
 insecure
 preserve-inputs
-bootstrap
 router
+bootstrap-updated
